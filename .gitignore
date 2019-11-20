@@ -1,4 +1,5 @@
 data/*.csv
 data/*.xlsx
+data/embedding/*
 .idea
 .ipynb_checkpoints
