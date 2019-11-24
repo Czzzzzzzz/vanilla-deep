@@ -1,0 +1,17 @@
+C:\Users\LYA\Desktop\project2\Bert-Multi-Label-Text-Classification-master\pybert\io\bert_processor.py
+
+更改标签个数
+
+watch -n 3 nvidia-smi
+
+source activate pytorch
+CUDA_VISIBLE_DEVICES=0 python /home/yaliang/bert_label2/run_bert.py --do_test
+
+8.5G
+16 barch
+5 mins
+
+
+import os
+matplotlib
+sklearn
